@@ -1,12 +1,13 @@
-My name is Matheus and I'm a natural-born communicator. 
+My name is Matheus and I'm very skilled at explaining, persuading, and conversing. 
 
-I'm very skilled at explaining, persuading, and conversing. But to be truly convincing, I needed to back up what I was saying. 
+*But what it does have with being a data analyst/scientist?*
 
+To be truly convincing, I needed to back up what I was saying. 
 That's where data comes in.
 
-Data explains, substantiates, and convinces my decisions and (should) those of many businesses. That's why it's useful. To do this, I use my skills in analysis, **Python, SQL, and data visualization (Tableau, Looker and PowerBI)** to build scenarios, overviews, and provide insights to my colleagues so that we can make the best business decisions possible.
+**I use my skills in analysis, Python, SQL, and data visualization (Tableau, Looker and PowerBI)** to build scenarios, overviews, and convince my colleagues and peers of what's the best way to face and tackle a challenge.
 
-I have already executed deals with these skills in tech, retail, and marketing companies, covering areas as diverse as products, sales, and business.
+I have already executed those stunts in tech, retail, and marketing companies, covering areas as diverse as products, sales, and business.
 
 Here you will see a sample of how I think and turn this data into good decisions and, above all, profits for businesses.
 
