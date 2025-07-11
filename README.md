@@ -11,4 +11,4 @@ I have already executed those stunts in tech, retail, and marketing companies, c
 
 Here you will see a sample of how I think and turn this data into good decisions and, above all, profits for businesses.
 
-My résumé/CV is [here](https://drive.google.com/file/d/1lp8SsQ9ehq1g3_il_fOJ0zafpF7cQBTx/view?usp=sharing). 
+My résumé/CV is [here](https://docs.google.com/document/d/1C7LtB8BhnrQk72zCIy_gVFiO6hgXdimU2bjXzzhNmQQ/edit?usp=sharing). 
